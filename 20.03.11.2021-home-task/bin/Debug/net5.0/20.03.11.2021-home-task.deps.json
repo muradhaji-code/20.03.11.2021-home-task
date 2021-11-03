@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "20.03.11.2021-home-task/1.0.0": {
+        "dependencies": {
+          "MyClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "20.03.11.2021-home-task.dll": {}
+        }
+      },
+      "MyClassLibrary/1.0.0": {
+        "runtime": {
+          "MyClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20.03.11.2021-home-task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
